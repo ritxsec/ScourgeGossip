@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: ScourgeGossip
+## Author: RITX SEC
+## Notes: A addon to snipe all the Shadow of Dooms
+## Version: 1.0
+
+main.lua
